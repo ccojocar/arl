@@ -14,8 +14,6 @@ import (
 	"time"
 )
 
-const probeIntervalSec = 30
-
 var (
 	resource         string
 	tenantID         string
