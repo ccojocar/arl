@@ -23,7 +23,7 @@ var (
 )
 
 func init() {
-	flag.StringVar(&resource, "resource", "", "REST resource for which the rate limit test is executed")
+	flag.StringVar(&resource, "resource", "", "REST resource for which the rate limit measurement is executed")
 	flag.StringVar(&tenantID, "tenant-id", "", "tenant ID")
 	flag.StringVar(&clientID, "client-id", "", "client ID")
 	flag.IntVar(&numTokens, "num-tokens", 1, "number of tokens requested for a user")
