@@ -1,0 +1,3 @@
+package: github.com/cosmincojocar/arl
+import:
+- package: github.com/cosmincojocar/adal
