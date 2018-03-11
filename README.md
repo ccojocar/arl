@@ -1,6 +1,6 @@
 # arl
 
-This is a tool to measure the rate-limit of REST API protected by Azure Active Directory
+This is a tool to measure the rate-limit of a REST API protected by Azure Active Directory.
 
 ## Installation
 
@@ -31,4 +31,4 @@ The API rate-limit for a REST resource can be measured as follows:
 $ arl -resouce <RESSOURCE_URL> -client-id <AAD_CLIENT_ID> -tenant-id <AAD_TENANT_ID>
 ```
 
-The tool will prompt a device code which can be used to authenticate with AAD.
+The tool will prompt a device code which can be used to authenticate with Azure Active Directory.
