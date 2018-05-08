@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"errors"
-	"github.com/cosmincojocar/adal"
+	"github.com/ccojocar/adal"
 	"sync"
 )
 

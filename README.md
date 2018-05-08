@@ -5,7 +5,7 @@ This is a tool to measure the rate-limit of a REST API protected by Azure Active
 ## Installation
 
 ```bash
-go get github.com/cosmincojocar/arl
+go get github.com/ccojocar/arl
 ```
 
 ## Usage 

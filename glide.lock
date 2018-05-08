@@ -1,7 +1,7 @@
 hash: 347f3cddc474cbcab8d7d6fb56c916a55ce72d1145573837776bc5e4710d6b83
 updated: 2017-04-21T14:10:48.564098896+02:00
 imports:
-- name: github.com/cosmincojocar/adal
+- name: github.com/ccojocar/adal
   version: 0ebedc26203c9f5c44b685fff3c5ef13cb22cf83
 - name: github.com/dgrijalva/jwt-go
   version: d2709f9f1f31ebcda9651b03077758c1f3a0018c
